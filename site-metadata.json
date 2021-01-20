@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/qt=q_95.webp"
     },
     "footer": {
         "has_nav": true,
