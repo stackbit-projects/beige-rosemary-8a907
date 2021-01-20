@@ -21,7 +21,7 @@ sections:
       background_color: gray
       background_image: images/1610050897064.jpg
       background_image_opacity: 90
-      background_image_size: cover
+      background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
     title: Features
