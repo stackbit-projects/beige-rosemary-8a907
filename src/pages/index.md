@@ -20,7 +20,7 @@ sections:
     background:
       background_color: gray
       background_image: images/1610050897064.jpg
-      background_image_opacity: 20
+      background_image_opacity: 0
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
